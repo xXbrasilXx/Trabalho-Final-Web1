@@ -1,5 +1,5 @@
 # Trabalho-Final-Web1
-Trabalho final da disciplina de Desenvolvimento Web I UFPR - TADS
+Trabalho final da disciplina de Desenvolvimento Web I UFPR - TADS por Arthur Deretti, Gabriel Brasil e João Takahashi
 Como rodar localmente:
 - Primeiramente, abra o projeto no Visual Studio Code e abra um terminal na pasta raíz.
 - Digite os seguintes comandos:
